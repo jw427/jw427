@@ -25,16 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-  <h3>👩‍💻 My Github Stats & Most Used Languages 👩‍💻</h3>
-  <a href="s">
-    <img src="https://github-readme-stats-jw427.vercel.app/api?username=jw427&hide_title=true&show_icons=true&theme=buefy&count_private=true" width="50%" />
-  </a>
-  <a href="s">
-    <img src="https://github-readme-stats-jw427.vercel.app/api/top-langs/?username=jw427&hide_title=true&layout=compact&langs_count=8&count_private=true" width="42%" />
-  </a>
-</div>
-
 <br>
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <div align="center">
