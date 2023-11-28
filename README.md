@@ -1,7 +1,4 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&animation=twinkling&fontSize=35&text=Welcome%20to%20my%20Github😊&fontAlignY=40&fontAlign=70&customColorList=1)
-</div>
+
 
 
 <!--
@@ -18,11 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&color=CD5DF7&center=true&vCenter=true&width=435&height=55&lines=Hi!+I'm+jiwon+%3Ap)](https://git.io/typing-svg)
-</div>
 
 
 <br>
