@@ -43,3 +43,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
+<br>
+
+<div align=center>
+  
+  [![jiwon's github stats](https://github-readme-stats.vercel.app/api?username=jw427&show_icons=true&rank_icon=github&count_private=true&theme=ambient_gradient)](https://github.com/jw427/github-readme-stats)
+</div>
