@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <div align=center>
   <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </div>
 <h3 align="center">🔥 Tools & Collaborations 🔥</h3>
 <div align=center>
